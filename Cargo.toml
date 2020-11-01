@@ -8,6 +8,7 @@ homepage = "https://github.com/abhisunkewar/authentication"
 documentation = "https://docs.rs/authentication"
 repository = "https://github.com/abhisunkewar/authentication"
 readme = "README.md"
+license = "MIT"
 include = [
     "**/*.rs",
     "Cargo.toml",
