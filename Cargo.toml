@@ -3,6 +3,11 @@ name = "authentication"
 version = "0.0.0"
 authors = ["Abhishek Sunkewar <abhisheksunkewar@icloud.com>"]
 edition = "2018"
+descripton = "An authentication system for Rust inspired by Django"
+homepage = "https://github.com/abhisunkewar/authentication"
+documentation = "https://docs.rs/authentication"
+repository = "https://github.com/abhisunkewar/authentication"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
